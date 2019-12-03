@@ -1,0 +1,1 @@
+# inertiajs-laravel-vuetify
