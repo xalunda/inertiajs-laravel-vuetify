@@ -1,20 +1,16 @@
-vendor/
-node_modules/
-npm-debug.log
-
-# Laravel 4 specific
-bootstrap/compiled.php
-app/storage/
-
-# Laravel 5 & Lumen specific
-public/storage
-public/hot
-storage/*.key
-.env.*.php
-.env.php
+/node_modules
+/public/css
+/public/hot
+/public/js
+/public/mix-manifest.json
+/public/storage
+/storage/*.key
+/vendor
+.DS_Store
 .env
-Homestead.yaml
+.php_cs.dist
+.phpunit.result.cache
 Homestead.json
-
-# Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
-.rocketeer/
+Homestead.yaml
+npm-debug.log
+yarn-error.log
