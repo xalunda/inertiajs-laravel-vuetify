@@ -15,11 +15,6 @@
 
 <script>
   export default {
-    name: 'AppBar',
-    methods: {
-      back(){
-        this.$inertia.visit(route(this.$root.goBack.url))
-      }
-    }
+    name: 'AppBar'
   }
 </script>
