@@ -10,20 +10,20 @@
         "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
     },
     "devDependencies": {
-        "@babel/plugin-syntax-dynamic-import": "^7.2.0",
-        "@inertiajs/inertia": "^0.1.0",
+        "@babel/plugin-syntax-dynamic-import": "^7.7.4",
+        "@inertiajs/inertia": "^0.1.7",
         "@inertiajs/inertia-vue": "^0.1.0",
         "autosize": "^4.0.2",
         "axios": "^0.18",
         "cross-env": "^5.1",
-        "css-loader": "^3.2.1",
+        "css-loader": "^3.3.0",
         "deepmerge": "^4.2.2",
         "eslint": "^5.14.1",
         "eslint-plugin-vue": "^5.2.2",
         "fibers": "^4.0.2",
-        "fuse.js": "^3.4.2",
+        "fuse.js": "^3.4.6",
         "laravel-mix": "^4.0.7",
-        "popper.js": "^1.12",
+        "popper.js": "^1.16.0",
         "portal-vue": "^1.5.1",
         "postcss-import": "^12.0.1",
         "postcss-nesting": "^7.0.0",
@@ -38,7 +38,7 @@
         "babel-polyfill": "^6.26.0",
         "es6-promise": "^4.2.8",
         "lodash": "^4.17.15",
-        "vue-meta": "^2.2.2",
+        "vue-meta": "^2.3.1",
         "vuetify": "^2.1.13"
     }
 }
