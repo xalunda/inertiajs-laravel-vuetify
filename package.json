@@ -37,7 +37,7 @@
     "dependencies": {
         "babel-polyfill": "^6.26.0",
         "es6-promise": "^4.2.8",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.19",
         "vue-meta": "^2.3.1",
         "vuetify": "^2.1.13"
     }
