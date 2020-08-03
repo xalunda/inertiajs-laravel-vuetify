@@ -1,3 +1,7 @@
+```diff
+- Currently outdated – Update is planned in August
+```
+
 # Vuetify Ping CRM
 
 A demo application to illustrate how Inertia.js works. Implemented with Vuetify
