@@ -1,5 +1,5 @@
 ```diff
-- Currently outdated – Update is planned in August
+- Currently outdated – Update is planned – No current date
 ```
 
 # Vuetify Ping CRM
